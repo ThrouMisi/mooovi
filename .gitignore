@@ -15,5 +15,5 @@
 /log/*.log
 /tmp
 
-/config/database.yml
-/Gemfile.lock
+# /config/database.yml
+# /Gemfile.lock
