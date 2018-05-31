@@ -12,4 +12,4 @@
 
 
 # References
-TECH::CAMPというプログラミング教室で作成した。
+TECH::CAMPというプログラミング教室で作成しました。
